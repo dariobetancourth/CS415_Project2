@@ -18,4 +18,3 @@ INSERT INTO `User` VALUES (1,'Main','User','muser@email.com','12345','2024-01-18
     (16,'Jack','Frost','jfrost@email.com','12345','2024-02-09 00:47:24',1,'2024-02-28 09:59:07');
 /*!40000 ALTER TABLE `User` ENABLE KEYS */;
 UNLOCK TABLES;
-

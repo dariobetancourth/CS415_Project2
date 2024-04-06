@@ -9,4 +9,3 @@ INSERT INTO `PageData` VALUES (1,'Module 1 - Week 1','VM, Repo, and DB Server','
     (7,'Module 7 - Week 8','Midterm Assignment','Summary of all activities so far in the semester.  Go over midterm assignment','https://thehawkeye.org/wp-content/uploads/2019/04/Midterm-exams-857x900.png','Module 7 - Midterm Assignment');
 /*!40000 ALTER TABLE `PageData` ENABLE KEYS */;
 UNLOCK TABLES;
-

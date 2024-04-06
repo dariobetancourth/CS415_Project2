@@ -1,3 +1,5 @@
+USE cs415website;
+
 CREATE TABLE User (
   user_id int NOT NULL AUTO_INCREMENT,
   first_name varchar(25) NOT NULL,
@@ -70,3 +72,8 @@ CREATE TABLE PageData (
   page_menu varchar(35) NOT NULL,
   PRIMARY KEY (page_data_id)
 );
+
+
+
+
+
